@@ -1,0 +1,15 @@
+{
+    "name": "awsm-architect-dbResourceResolve", "version": "0.0.1",
+
+    "main": "index.js",
+
+    "plugin": {
+        "consumes": [
+            "$config"
+        ],
+        "provides": [
+            "$dbResourceResolve"
+        ]
+    }
+
+}
